@@ -1,4 +1,21 @@
-# Tecnicas-de-Procesamiento-del-Habla_-Grupo11
+
+# GRUPO-11
+
+<h1 align="center"> PROYECTO FINAL </h1>
+<h1 align="center"> Tecnicas-de-Procesamiento-del-Habla
+
+### COHORTE 2022
+
+### :globe_with_meridians: TECNICATURA EN CIENCIAS DE DATOS E INTELIGENCIA ARTIFICIAL
+
+### *Colaboradores:*
+
+- [Hanun Romina](https://github.com/RomiHanun) 
+- [Kanneman Samuel](https://github.com/samuelkanneman)
+- [Zelarayán Román ](https://github.com/romanzelararg)
+- [Mansilla Leonardo Matias ](https://github.com/LMmansilla)
+- [Lucero Carla](https://github.com/CarlaLucerocd)
+- [Juchniewicz Federico](https://github.com/FJISPC)
 
 Análisis de Sentimientos de Texto de un libro "24 horas en la vida de una mujer.txt", clasificando las palabras o frases en categorías de sentimiento positivo o negativo.
 
